@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+}
+
+.container .user-form{
+    flex: 1;
+}
+
+.container .user-list{
+    flex: 2;
+}
